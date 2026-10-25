@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33918569/README.md)
 <p align="center">
   <img src="assets/header.png" width="640" alt="A quiet anime summer sky above a distant school rooftop." />
 </p>
