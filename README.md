@@ -52,6 +52,6 @@ A little open-source work too: WIP.
 
 ---
 
-[github](https://github.com/tarang-tp) · [linkedin](https://www.linkedin.com/in/tarang-tp/)
+[github](https://github.com/tarang-tp) · [linkedin](https://www.linkedin.com/in/tarang-tp/) · [X](https://x.com/endedoko)
 
 <img src="assets/cloud.gif" width="96" alt="A tiny cloud gently bobbing. See you around." />
