@@ -48,7 +48,7 @@ Go for services and concurrency; Rust for systems programming, ownership, and un
 - [distributed transaction pipeline](https://github.com/tarang-tp/distributed-transaction-pipeline) — learning streams, worker rebalancing, and Raft by building them.
 - [uiuc course bot](https://github.com/tarang-tp/uiuc_course_bot) — course analytics and grade-distribution charts in Discord.
 
-A little open-source work too: WIP.
+A little open-source work too: 1 PR approved on FirstContributions Repository.
 
 ---
 
