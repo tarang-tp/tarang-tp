@@ -8,7 +8,7 @@
 
 I'm a junior at the **University of Illinois Urbana-Champaign**, studying **Statistics + Computer Science** with a minor in Mathematics. I like building things that help me understand how models run, how data moves, and how systems hold up when something breaks.
 
-A lot of my interests sit between **AI/ML, infrastructure, and scientific computing**. I enjoy the modeling side, but I'm just as curious about everything needed to make an experiment run well: the data pipeline, the inference engine, the containers, and the machines underneath.
+A lot of my interests sit between **AI/ML, infrastructure, and scientific computing**. I enjoy the modeling side, but I'm just as curious about everything needed to make an experiment run well: the data pipeline, the inference engine, the containers, and the machines underneath. Recently, I have also become interested more on the Embedded Systems and hardware-meets-software side of the things.
 
 Outside of that: squirrel and bird watching, and probably another side project.
 
